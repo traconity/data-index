@@ -1425,3 +1425,4 @@ omd/p/prazska-integrovana-doprava/1106/20260715.tcb
 omd/p/prazska-integrovana-doprava/1106/20260716.tcb
 omd/p/prazska-integrovana-doprava/1106/20260717.tcb
 omd/p/prazska-integrovana-doprava/1106/20260718.tcb
+omd/p/prazska-integrovana-doprava/1106/20260719.tcb
